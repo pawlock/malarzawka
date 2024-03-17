@@ -1,0 +1,14 @@
+{
+  "main": [
+    {
+      "name": "github",
+      "icon": "FaGithub",
+      "link": "https://github.com/pawlock/malarzawka"
+    },
+    {
+      "name": "Discord",
+      "icon": "FaDiscord",
+      "link": "https://www.discord.com/"
+    }
+  ]
+}
